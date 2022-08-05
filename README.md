@@ -35,7 +35,7 @@ If this isn't working, or you want to download it from a different file hosting 
 
 1. You will need to install [Python](https://www.python.org/) 3.10 on your machine.
 
-2. The next version of the program also uses tensorflow and keras
+2. The next version of the program also uses tensorflow
 
 ```bash
 python3 -m pip install -r requirements.txt
